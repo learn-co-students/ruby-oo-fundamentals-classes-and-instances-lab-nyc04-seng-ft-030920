@@ -1,13 +1,8 @@
     #Dog defined in class
-class dog 
-    end
+class Dog 
+   
+end
 
-
-
-    #variables defined as insatance of a Dog.
-fido = dog.new
-snoopy = dog.new
-lassie = dog.new
-
-
-
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new 
